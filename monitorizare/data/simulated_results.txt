@@ -1,0 +1,107 @@
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.87;DISEASE=healthy;CONF_DISEASE=0.93;RECOMM=Planta sanatoasa in stadiu timpuriu. Mentineti irigarea si fertilizarea.;FPS=5.6
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.82;DISEASE=yellow_rust;CONF_DISEASE=0.78;RECOMM=ATENTIE: Yellow Rust detectat! Aplicati fungicid sistemic imediat.;FPS=5.4
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.80;DISEASE=brown_rust;CONF_DISEASE=0.74;RECOMM=ATENTIE: Brown Rust detectat! Aplicati fungicid preventiv imediat.;FPS=5.3
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.89;DISEASE=healthy;CONF_DISEASE=0.94;RECOMM=Planta sanatoasa in stadiu timpuriu. Mentineti irigarea si fertilizarea.;FPS=5.7
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.83;DISEASE=leaf_blight;CONF_DISEASE=0.72;RECOMM=ATENTIE: Leaf Blight detectat. Reduceti umiditatea si aplicati fungicid.;FPS=5.4
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.78;DISEASE=healthy;CONF_DISEASE=0.90;RECOMM=Planta sanatoasa in stadiu timpuriu. Mentineti irigarea si fertilizarea.;FPS=5.5
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.81;DISEASE=yellow_rust;CONF_DISEASE=0.76;RECOMM=ATENTIE: Yellow Rust detectat! Aplicati fungicid sistemic imediat.;FPS=5.3
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.77;DISEASE=black_point;CONF_DISEASE=0.70;RECOMM=Improbabil in acest stadiu. Verificati pozitionarea camerei.;FPS=5.3
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.79;DISEASE=wheat_blast;CONF_DISEASE=0.69;RECOMM=Improbabil in acest stadiu. Verificati pozitionarea camerei.;FPS=5.3
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.90;DISEASE=healthy;CONF_DISEASE=0.95;RECOMM=Planta sanatoasa in stadiu timpuriu. Mentineti irigarea si fertilizarea.;FPS=5.7
+
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.92;DISEASE=healthy;CONF_DISEASE=0.94;RECOMM=Planta sanatoasa. Pregatiti fertilizarea pentru formarea spicului.;FPS=5.6
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.88;DISEASE=yellow_rust;CONF_DISEASE=0.83;RECOMM=ATENTIE: Yellow Rust avansat! Tratament imediat necesar.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.86;DISEASE=brown_rust;CONF_DISEASE=0.80;RECOMM=ATENTIE: Brown Rust activ! Tratament fungicid urgent necesar.;FPS=5.4
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.91;DISEASE=healthy;CONF_DISEASE=0.93;RECOMM=Planta sanatoasa. Pregatiti fertilizarea pentru formarea spicului.;FPS=5.7
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.89;DISEASE=leaf_blight;CONF_DISEASE=0.77;RECOMM=ATENTIE: Leaf Blight avansat. Aplicati tratament foliar.;FPS=5.4
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.84;DISEASE=healthy;CONF_DISEASE=0.91;RECOMM=Planta sanatoasa. Pregatiti fertilizarea pentru formarea spicului.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.87;DISEASE=yellow_rust;CONF_DISEASE=0.82;RECOMM=ATENTIE: Yellow Rust avansat! Tratament imediat necesar.;FPS=5.4
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.83;DISEASE=brown_rust;CONF_DISEASE=0.79;RECOMM=ATENTIE: Brown Rust activ! Tratament fungicid urgent necesar.;FPS=5.3
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.80;DISEASE=black_point;CONF_DISEASE=0.71;RECOMM=Improbabil in acest stadiu. Verificati pozitionarea camerei.;FPS=5.3
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.82;DISEASE=wheat_blast;CONF_DISEASE=0.69;RECOMM=Improbabil in acest stadiu. Verificati pozitionarea camerei.;FPS=5.3
+
+RESULT;STAGE=maturitate;CONF_STAGE=0.95;DISEASE=healthy;CONF_DISEASE=0.94;RECOMM=Spic sanatos. Evaluati momentul optim pentru recoltare.;FPS=5.7
+RESULT;STAGE=maturitate;CONF_STAGE=0.91;DISEASE=yellow_rust;CONF_DISEASE=0.86;RECOMM=Yellow Rust prezent. Recoltati urgent.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.90;DISEASE=brown_rust;CONF_DISEASE=0.83;RECOMM=Brown Rust la maturitate. Recoltati cat mai curand.;FPS=5.4
+RESULT;STAGE=maturitate;CONF_STAGE=0.93;DISEASE=leaf_blight;CONF_DISEASE=0.79;RECOMM=Leaf Blight la maturitate. Recoltati si evaluati pierderile.;FPS=5.4
+RESULT;STAGE=maturitate;CONF_STAGE=0.88;DISEASE=black_point;CONF_DISEASE=0.82;RECOMM=ATENTIE: Black Point pe boabe! Verificati calitatea recoltei.;FPS=5.4
+RESULT;STAGE=maturitate;CONF_STAGE=0.94;DISEASE=wheat_blast;CONF_DISEASE=0.89;RECOMM=PERICOL: Wheat Blast! Consultati specialist inainte de recoltare.;FPS=5.3
+RESULT;STAGE=maturitate;CONF_STAGE=0.92;DISEASE=healthy;CONF_DISEASE=0.93;RECOMM=Spic sanatos. Evaluati momentul optim pentru recoltare.;FPS=5.6
+RESULT;STAGE=maturitate;CONF_STAGE=0.89;DISEASE=yellow_rust;CONF_DISEASE=0.84;RECOMM=Yellow Rust prezent. Recoltati urgent.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.90;DISEASE=brown_rust;CONF_DISEASE=0.82;RECOMM=Brown Rust la maturitate. Recoltati cat mai curand.;FPS=5.4
+RESULT;STAGE=maturitate;CONF_STAGE=0.91;DISEASE=leaf_blight;CONF_DISEASE=0.78;RECOMM=Leaf Blight la maturitate. Recoltati si evaluati pierderile.;FPS=5.4
+
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.93;DISEASE=healthy;CONF_DISEASE=0.95;RECOMM=Planta sanatoasa. Pregatiti fertilizarea pentru formarea spicului.;FPS=5.7
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.90;DISEASE=yellow_rust;CONF_DISEASE=0.84;RECOMM=ATENTIE: Yellow Rust avansat! Tratament imediat necesar.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.88;DISEASE=brown_rust;CONF_DISEASE=0.81;RECOMM=ATENTIE: Brown Rust activ! Tratament fungicid urgent necesar.;FPS=5.4
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.91;DISEASE=leaf_blight;CONF_DISEASE=0.77;RECOMM=ATENTIE: Leaf Blight avansat. Aplicati tratament foliar.;FPS=5.4
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.84;DISEASE=healthy;CONF_DISEASE=0.92;RECOMM=Planta sanatoasa. Pregatiti fertilizarea pentru formarea spicului.;FPS=5.6
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.86;DISEASE=yellow_rust;CONF_DISEASE=0.82;RECOMM=ATENTIE: Yellow Rust avansat! Tratament imediat necesar.;FPS=5.4
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.83;DISEASE=brown_rust;CONF_DISEASE=0.79;RECOMM=ATENTIE: Brown Rust activ! Tratament fungicid urgent necesar.;FPS=5.3
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.80;DISEASE=black_point;CONF_DISEASE=0.71;RECOMM=Improbabil in acest stadiu. Verificati pozitionarea camerei.;FPS=5.3
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.82;DISEASE=wheat_blast;CONF_DISEASE=0.69;RECOMM=Improbabil in acest stadiu. Verificati pozitionarea camerei.;FPS=5.3
+
+RESULT;STAGE=maturitate;CONF_STAGE=0.96;DISEASE=healthy;CONF_DISEASE=0.94;RECOMM=Spic sanatos. Evaluati momentul optim pentru recoltare.;FPS=5.7
+RESULT;STAGE=maturitate;CONF_STAGE=0.92;DISEASE=yellow_rust;CONF_DISEASE=0.87;RECOMM=Yellow Rust prezent. Recoltati urgent.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.91;DISEASE=brown_rust;CONF_DISEASE=0.84;RECOMM=Brown Rust la maturitate. Recoltati cat mai curand.;FPS=5.4
+RESULT;STAGE=maturitate;CONF_STAGE=0.93;DISEASE=leaf_blight;CONF_DISEASE=0.79;RECOMM=Leaf Blight la maturitate. Recoltati si evaluati pierderile.;FPS=5.4
+RESULT;STAGE=maturitate;CONF_STAGE=0.89;DISEASE=black_point;CONF_DISEASE=0.82;RECOMM=ATENTIE: Black Point pe boabe! Verificati calitatea recoltei.;FPS=5.4
+RESULT;STAGE=maturitate;CONF_STAGE=0.95;DISEASE=wheat_blast;CONF_DISEASE=0.90;RECOMM=PERICOL: Wheat Blast! Consultati specialist inainte de recoltare.;FPS=5.3
+
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.88;DISEASE=healthy;CONF_DISEASE=0.92;RECOMM=Planta sanatoasa in stadiu timpuriu. Mentineti irigarea si fertilizarea.;FPS=5.6
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.83;DISEASE=yellow_rust;CONF_DISEASE=0.78;RECOMM=ATENTIE: Yellow Rust detectat! Aplicati fungicid sistemic imediat.;FPS=5.4
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.80;DISEASE=brown_rust;CONF_DISEASE=0.74;RECOMM=ATENTIE: Brown Rust detectat! Aplicati fungicid preventiv imediat.;FPS=5.3
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.89;DISEASE=leaf_blight;CONF_DISEASE=0.73;RECOMM=ATENTIE: Leaf Blight detectat. Reduceti umiditatea si aplicati fungicid.;FPS=5.4
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.78;DISEASE=healthy;CONF_DISEASE=0.90;RECOMM=Planta sanatoasa in stadiu timpuriu. Mentineti irigarea si fertilizarea.;FPS=5.5
+
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.92;DISEASE=healthy;CONF_DISEASE=0.94;RECOMM=Planta sanatoasa. Pregatiti fertilizarea pentru formarea spicului.;FPS=5.6
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.88;DISEASE=yellow_rust;CONF_DISEASE=0.83;RECOMM=ATENTIE: Yellow Rust avansat! Tratament imediat necesar.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.86;DISEASE=brown_rust;CONF_DISEASE=0.80;RECOMM=ATENTIE: Brown Rust activ! Tratament fungicid urgent necesar.;FPS=5.4
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.91;DISEASE=leaf_blight;CONF_DISEASE=0.77;RECOMM=ATENTIE: Leaf Blight avansat. Aplicati tratament foliar.;FPS=5.4
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.84;DISEASE=healthy;CONF_DISEASE=0.92;RECOMM=Planta sanatoasa. Pregatiti fertilizarea pentru formarea spicului.;FPS=5.6
+
+RESULT;STAGE=maturitate;CONF_STAGE=0.95;DISEASE=healthy;CONF_DISEASE=0.94;RECOMM=Spic sanatos. Evaluati momentul optim pentru recoltare.;FPS=5.7
+RESULT;STAGE=maturitate;CONF_STAGE=0.92;DISEASE=yellow_rust;CONF_DISEASE=0.87;RECOMM=Yellow Rust prezent. Recoltati urgent.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.91;DISEASE=brown_rust;CONF_DISEASE=0.84;RECOMM=Brown Rust la maturitate. Recoltati cat mai curand.;FPS=5.4
+RESULT;STAGE=maturitate;CONF_STAGE=0.93;DISEASE=leaf_blight;CONF_DISEASE=0.79;RECOMM=Leaf Blight la maturitate. Recoltati si evaluati pierderile.;FPS=5.4
+RESULT;STAGE=maturitate;CONF_STAGE=0.89;DISEASE=black_point;CONF_DISEASE=0.82;RECOMM=ATENTIE: Black Point pe boabe! Verificati calitatea recoltei.;FPS=5.4
+RESULT;STAGE=maturitate;CONF_STAGE=0.95;DISEASE=wheat_blast;CONF_DISEASE=0.90;RECOMM=PERICOL: Wheat Blast! Consultati specialist inainte de recoltare.;FPS=5.3
+RESULT;STAGE=maturitate;CONF_STAGE=0.95;DISEASE=healthy;CONF_DISEASE=0.94;RECOMM=Spic sanatos. Evaluati momentul optim pentru recoltare.;FPS=5.7
+RESULT;STAGE=maturitate;CONF_STAGE=0.91;DISEASE=yellow_rust;CONF_DISEASE=0.86;RECOMM=Yellow Rust prezent. Recoltati urgent.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.90;DISEASE=brown_rust;CONF_DISEASE=0.83;RECOMM=Brown Rust la maturitate. Recoltati cat mai curand.;FPS=5.4
+RESULT;STAGE=maturitate;CONF_STAGE=0.93;DISEASE=leaf_blight;CONF_DISEASE=0.79;RECOMM=Leaf Blight la maturitate. Recoltati si evaluati pierderile.;FPS=5.4
+RESULT;STAGE=maturitate;CONF_STAGE=0.88;DISEASE=black_point;CONF_DISEASE=0.82;RECOMM=ATENTIE: Black Point pe boabe! Verificati calitatea recoltei.;FPS=5.4
+RESULT;STAGE=maturitate;CONF_STAGE=0.94;DISEASE=wheat_blast;CONF_DISEASE=0.89;RECOMM=PERICOL: Wheat Blast! Consultati specialist inainte de recoltare.;FPS=5.3
+RESULT;STAGE=maturitate;CONF_STAGE=0.92;DISEASE=healthy;CONF_DISEASE=0.93;RECOMM=Spic sanatos. Evaluati momentul optim pentru recoltare.;FPS=5.6
+RESULT;STAGE=maturitate;CONF_STAGE=0.89;DISEASE=yellow_rust;CONF_DISEASE=0.84;RECOMM=Yellow Rust prezent. Recoltati urgent.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.90;DISEASE=brown_rust;CONF_DISEASE=0.82;RECOMM=Brown Rust la maturitate. Recoltati cat mai curand.;FPS=5.4
+RESULT;STAGE=maturitate;CONF_STAGE=0.91;DISEASE=leaf_blight;CONF_DISEASE=0.78;RECOMM=Leaf Blight la maturitate. Recoltati si evaluati pierderile.;FPS=5.4
+
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.93;DISEASE=healthy;CONF_DISEASE=0.95;RECOMM=Planta sanatoasa. Pregatiti fertilizarea pentru formarea spicului.;FPS=5.7
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.90;DISEASE=yellow_rust;CONF_DISEASE=0.84;RECOMM=ATENTIE: Yellow Rust avansat! Tratament imediat necesar.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.88;DISEASE=brown_rust;CONF_DISEASE=0.81;RECOMM=ATENTIE: Brown Rust activ! Tratament fungicid urgent necesar.;FPS=5.4
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.91;DISEASE=leaf_blight;CONF_DISEASE=0.77;RECOMM=ATENTIE: Leaf Blight avansat. Aplicati tratament foliar.;FPS=5.4
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.84;DISEASE=healthy;CONF_DISEASE=0.92;RECOMM=Planta sanatoasa. Pregatiti fertilizarea pentru formarea spicului.;FPS=5.6
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.86;DISEASE=yellow_rust;CONF_DISEASE=0.82;RECOMM=ATENTIE: Yellow Rust avansat! Tratament imediat necesar.;FPS=5.4
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.83;DISEASE=brown_rust;CONF_DISEASE=0.79;RECOMM=ATENTIE: Brown Rust activ! Tratament fungicid urgent necesar.;FPS=5.3
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.80;DISEASE=black_point;CONF_DISEASE=0.71;RECOMM=Improbabil in acest stadiu. Verificati pozitionarea camerei.;FPS=5.3
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.82;DISEASE=wheat_blast;CONF_DISEASE=0.69;RECOMM=Improbabil in acest stadiu. Verificati pozitionarea camerei.;FPS=5.3
+
+RESULT;STAGE=maturitate;CONF_STAGE=0.96;DISEASE=healthy;CONF_DISEASE=0.94;RECOMM=Spic sanatos. Evaluati momentul optim pentru recoltare.;FPS=5.7
+RESULT;STAGE=maturitate;CONF_STAGE=0.92;DISEASE=yellow_rust;CONF_DISEASE=0.87;RECOMM=Yellow Rust prezent. Recoltati urgent.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.91;DISEASE=brown_rust;CONF_DISEASE=0.84;RECOMM=Brown Rust la maturitate. Recoltati cat mai curand.;FPS=5.4
+RESULT;STAGE=maturitate;CONF_STAGE=0.93;DISEASE=leaf_blight;CONF_DISEASE=0.79;RECOMM=Leaf Blight la maturitate. Recoltati si evaluati pierderile.;FPS=5.4
+RESULT;STAGE=maturitate;CONF_STAGE=0.89;DISEASE=black_point;CONF_DISEASE=0.82;RECOMM=ATENTIE: Black Point pe boabe! Verificati calitatea recoltei.;FPS=5.4
+RESULT;STAGE=maturitate;CONF_STAGE=0.95;DISEASE=wheat_blast;CONF_DISEASE=0.90;RECOMM=PERICOL: Wheat Blast! Consultati specialist inainte de recoltare.;FPS=5.3
+
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.88;DISEASE=healthy;CONF_DISEASE=0.93;RECOMM=Planta sanatoasa in stadiu timpuriu. Mentineti irigarea si fertilizarea.;FPS=5.6
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.83;DISEASE=yellow_rust;CONF_DISEASE=0.78;RECOMM=ATENTIE: Yellow Rust detectat! Aplicati fungicid sistemic imediat.;FPS=5.4
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.80;DISEASE=brown_rust;CONF_DISEASE=0.74;RECOMM=ATENTIE: Brown Rust detectat! Aplicati fungicid preventiv imediat.;FPS=5.3
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.89;DISEASE=leaf_blight;CONF_DISEASE=0.73;RECOMM=ATENTIE: Leaf Blight detectat. Reduceti umiditatea si aplicati fungicid.;FPS=5.4
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.78;DISEASE=healthy;CONF_DISEASE=0.90;RECOMM=Planta sanatoasa in stadiu timpuriu. Mentineti irigarea si fertilizarea.;FPS=5.5
+
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.92;DISEASE=healthy;CONF_DISEASE=0.94;RECOMM=Planta sanatoasa. Pregatiti fertilizarea pentru formarea spicului.;FPS=5.6
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.88;DISEASE=yellow_rust;CONF_DISEASE=0.83;RECOMM=ATENTIE: Yellow Rust avansat! Tratament imediat necesar.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.86;DISEASE=brown_rust;CONF_DISEASE=0.80;RECOMM=ATENTIE: Brown Rust activ! Tratament fungicid urgent necesar.;FPS=5.4
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.91;DISEASE=leaf_blight;CONF_DISEASE=0.77;RECOMM=ATENTIE: Leaf Blight avansat. Aplicati tratament foliar.;FPS=5.4
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.84;DISEASE=healthy;CONF_DISEASE=0.92;RECOMM=Planta sanatoasa. Pregatiti fertilizarea pentru formarea spicului.;FPS=5.6

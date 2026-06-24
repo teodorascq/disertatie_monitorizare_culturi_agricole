@@ -1,0 +1,166 @@
+RESULT;STAGE=maturitate;CONF_STAGE=0.85;DISEASE=yellow_rust;CONF_DISEASE=0.90;RECOMM=Yellow Rust prezent. Recoltati urgent.;FPS=4.7
+RESULT;STAGE=maturitate;CONF_STAGE=0.94;DISEASE=yellow_rust;CONF_DISEASE=0.62;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.1
+RESULT;STAGE=maturitate;CONF_STAGE=0.83;DISEASE=wheat_blast;CONF_DISEASE=0.89;RECOMM=PERICOL: Wheat Blast! Consultati specialist inainte de recoltare.;FPS=5.2
+RESULT;STAGE=maturitate;CONF_STAGE=0.84;DISEASE=wheat_blast;CONF_DISEASE=0.82;RECOMM=PERICOL: Wheat Blast! Consultati specialist inainte de recoltare.;FPS=5.3
+RESULT;STAGE=maturitate;CONF_STAGE=0.88;DISEASE=wheat_blast;CONF_DISEASE=0.79;RECOMM=PERICOL: Wheat Blast! Consultati specialist inainte de recoltare.;FPS=5.3
+RESULT;STAGE=maturitate;CONF_STAGE=0.69;DISEASE=yellow_rust;CONF_DISEASE=0.73;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.4
+RESULT;STAGE=maturitate;CONF_STAGE=0.86;DISEASE=yellow_rust;CONF_DISEASE=0.72;RECOMM=Yellow Rust prezent. Recoltati urgent.;FPS=5.4
+RESULT;STAGE=maturitate;CONF_STAGE=0.83;DISEASE=yellow_rust;CONF_DISEASE=0.76;RECOMM=Yellow Rust prezent. Recoltati urgent.;FPS=5.4
+RESULT;STAGE=maturitate;CONF_STAGE=0.88;DISEASE=yellow_rust;CONF_DISEASE=0.78;RECOMM=Yellow Rust prezent. Recoltati urgent.;FPS=5.4
+RESULT;STAGE=maturitate;CONF_STAGE=0.84;DISEASE=yellow_rust;CONF_DISEASE=0.76;RECOMM=Yellow Rust prezent. Recoltati urgent.;FPS=5.4
+RESULT;STAGE=maturitate;CONF_STAGE=0.62;DISEASE=leaf_blight;CONF_DISEASE=0.45;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.4
+RESULT;STAGE=maturitate;CONF_STAGE=0.57;DISEASE=healthy;CONF_DISEASE=0.38;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.4
+RESULT;STAGE=maturitate;CONF_STAGE=0.46;DISEASE=yellow_rust;CONF_DISEASE=0.56;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.4
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.67;DISEASE=yellow_rust;CONF_DISEASE=0.57;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.4
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.86;DISEASE=brown_rust;CONF_DISEASE=0.52;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.94;DISEASE=brown_rust;CONF_DISEASE=0.52;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.96;DISEASE=healthy;CONF_DISEASE=0.63;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.64;DISEASE=yellow_rust;CONF_DISEASE=0.95;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.50;DISEASE=yellow_rust;CONF_DISEASE=0.97;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.47;DISEASE=yellow_rust;CONF_DISEASE=0.96;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.48;DISEASE=yellow_rust;CONF_DISEASE=0.95;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.67;DISEASE=yellow_rust;CONF_DISEASE=0.96;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.48;DISEASE=yellow_rust;CONF_DISEASE=0.90;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.71;DISEASE=wheat_blast;CONF_DISEASE=0.45;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.97;DISEASE=healthy;CONF_DISEASE=0.53;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.99;DISEASE=leaf_blight;CONF_DISEASE=0.62;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.98;DISEASE=leaf_blight;CONF_DISEASE=0.57;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.99;DISEASE=healthy;CONF_DISEASE=0.45;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.99;DISEASE=healthy;CONF_DISEASE=0.48;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.99;DISEASE=healthy;CONF_DISEASE=0.56;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.89;DISEASE=leaf_blight;CONF_DISEASE=0.50;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.80;DISEASE=wheat_blast;CONF_DISEASE=0.99;RECOMM=PERICOL: Wheat Blast! Consultati specialist inainte de recoltare.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.80;DISEASE=healthy;CONF_DISEASE=0.72;RECOMM=Spic sanatos. Evaluati momentul optim pentru recoltare.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.88;DISEASE=wheat_blast;CONF_DISEASE=0.83;RECOMM=PERICOL: Wheat Blast! Consultati specialist inainte de recoltare.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.82;DISEASE=leaf_blight;CONF_DISEASE=0.53;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.52;DISEASE=healthy;CONF_DISEASE=0.48;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.55;DISEASE=wheat_blast;CONF_DISEASE=0.74;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.71;DISEASE=wheat_blast;CONF_DISEASE=0.88;RECOMM=PERICOL: Wheat Blast! Consultati specialist inainte de recoltare.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.55;DISEASE=healthy;CONF_DISEASE=0.68;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.86;DISEASE=wheat_blast;CONF_DISEASE=0.57;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.97;DISEASE=wheat_blast;CONF_DISEASE=0.95;RECOMM=PERICOL: Wheat Blast! Consultati specialist inainte de recoltare.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.97;DISEASE=wheat_blast;CONF_DISEASE=0.62;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.98;DISEASE=wheat_blast;CONF_DISEASE=0.99;RECOMM=PERICOL: Wheat Blast! Consultati specialist inainte de recoltare.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.97;DISEASE=black_point;CONF_DISEASE=0.48;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.96;DISEASE=black_point;CONF_DISEASE=0.42;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.94;DISEASE=leaf_blight;CONF_DISEASE=0.59;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.86;DISEASE=black_point;CONF_DISEASE=0.46;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.91;DISEASE=wheat_blast;CONF_DISEASE=0.45;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.87;DISEASE=black_point;CONF_DISEASE=0.44;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.91;DISEASE=wheat_blast;CONF_DISEASE=0.44;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.84;DISEASE=healthy;CONF_DISEASE=0.32;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.92;DISEASE=leaf_blight;CONF_DISEASE=0.38;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.80;DISEASE=leaf_blight;CONF_DISEASE=0.36;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.46;DISEASE=wheat_blast;CONF_DISEASE=0.62;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.53;DISEASE=healthy;CONF_DISEASE=0.76;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.46;DISEASE=healthy;CONF_DISEASE=0.74;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.54;DISEASE=healthy;CONF_DISEASE=0.82;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.50;DISEASE=healthy;CONF_DISEASE=0.78;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.59;DISEASE=healthy;CONF_DISEASE=0.41;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.46;DISEASE=healthy;CONF_DISEASE=0.48;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.69;DISEASE=healthy;CONF_DISEASE=0.56;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.60;DISEASE=yellow_rust;CONF_DISEASE=0.48;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.58;DISEASE=healthy;CONF_DISEASE=0.65;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.63;DISEASE=healthy;CONF_DISEASE=0.69;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.80;DISEASE=leaf_blight;CONF_DISEASE=0.68;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.87;DISEASE=healthy;CONF_DISEASE=0.49;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.85;DISEASE=healthy;CONF_DISEASE=0.80;RECOMM=Spic sanatos. Evaluati momentul optim pentru recoltare.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.80;DISEASE=healthy;CONF_DISEASE=0.80;RECOMM=Spic sanatos. Evaluati momentul optim pentru recoltare.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.85;DISEASE=healthy;CONF_DISEASE=0.93;RECOMM=Spic sanatos. Evaluati momentul optim pentru recoltare.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.91;DISEASE=leaf_blight;CONF_DISEASE=0.75;RECOMM=Leaf Blight la maturitate. Recoltati si evaluati pierderile.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.80;DISEASE=healthy;CONF_DISEASE=0.64;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.92;DISEASE=leaf_blight;CONF_DISEASE=0.57;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.90;DISEASE=wheat_blast;CONF_DISEASE=0.46;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.52;DISEASE=wheat_blast;CONF_DISEASE=0.83;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.68;DISEASE=leaf_blight;CONF_DISEASE=0.51;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.96;DISEASE=wheat_blast;CONF_DISEASE=0.36;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.72;DISEASE=leaf_blight;CONF_DISEASE=0.60;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.74;DISEASE=healthy;CONF_DISEASE=0.70;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.80;DISEASE=healthy;CONF_DISEASE=0.74;RECOMM=Planta sanatoasa in stadiu timpuriu. Mentineti irigarea si fertilizarea.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.57;DISEASE=wheat_blast;CONF_DISEASE=0.86;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.82;DISEASE=black_point;CONF_DISEASE=0.54;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.79;DISEASE=wheat_blast;CONF_DISEASE=0.55;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.70;DISEASE=black_point;CONF_DISEASE=0.46;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.76;DISEASE=wheat_blast;CONF_DISEASE=0.55;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.75;DISEASE=wheat_blast;CONF_DISEASE=0.64;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.85;DISEASE=black_point;CONF_DISEASE=0.53;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.85;DISEASE=black_point;CONF_DISEASE=0.65;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.80;DISEASE=black_point;CONF_DISEASE=0.53;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.58;DISEASE=wheat_blast;CONF_DISEASE=0.50;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.73;DISEASE=healthy;CONF_DISEASE=0.30;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.85;DISEASE=wheat_blast;CONF_DISEASE=0.36;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.75;DISEASE=leaf_blight;CONF_DISEASE=0.58;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.92;DISEASE=wheat_blast;CONF_DISEASE=0.36;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.77;DISEASE=black_point;CONF_DISEASE=0.40;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.73;DISEASE=leaf_blight;CONF_DISEASE=0.35;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.73;DISEASE=leaf_blight;CONF_DISEASE=0.34;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.87;DISEASE=black_point;CONF_DISEASE=0.25;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.90;DISEASE=yellow_rust;CONF_DISEASE=0.50;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.84;DISEASE=yellow_rust;CONF_DISEASE=0.35;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.86;DISEASE=wheat_blast;CONF_DISEASE=0.43;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.53;DISEASE=yellow_rust;CONF_DISEASE=0.84;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=4.7
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.56;DISEASE=yellow_rust;CONF_DISEASE=0.64;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.1
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.54;DISEASE=yellow_rust;CONF_DISEASE=0.70;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.2
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.50;DISEASE=yellow_rust;CONF_DISEASE=0.72;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.3
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.49;DISEASE=yellow_rust;CONF_DISEASE=0.77;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.3
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.55;DISEASE=yellow_rust;CONF_DISEASE=0.82;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.4
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.98;DISEASE=healthy;CONF_DISEASE=0.66;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.4
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.96;DISEASE=healthy;CONF_DISEASE=0.74;RECOMM=Planta sanatoasa in stadiu timpuriu. Mentineti irigarea si fertilizarea.;FPS=5.4
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.96;DISEASE=healthy;CONF_DISEASE=0.77;RECOMM=Planta sanatoasa in stadiu timpuriu. Mentineti irigarea si fertilizarea.;FPS=5.4
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.98;DISEASE=yellow_rust;CONF_DISEASE=0.92;RECOMM=ATENTIE: Yellow Rust avansat! Tratament imediat necesar.;FPS=5.4
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.97;DISEASE=yellow_rust;CONF_DISEASE=0.98;RECOMM=ATENTIE: Yellow Rust avansat! Tratament imediat necesar.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.95;DISEASE=yellow_rust;CONF_DISEASE=0.99;RECOMM=ATENTIE: Yellow Rust avansat! Tratament imediat necesar.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.93;DISEASE=yellow_rust;CONF_DISEASE=0.97;RECOMM=ATENTIE: Yellow Rust avansat! Tratament imediat necesar.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.83;DISEASE=yellow_rust;CONF_DISEASE=0.50;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.85;DISEASE=yellow_rust;CONF_DISEASE=0.70;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.72;DISEASE=yellow_rust;CONF_DISEASE=0.49;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.84;DISEASE=yellow_rust;CONF_DISEASE=0.43;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.54;DISEASE=leaf_blight;CONF_DISEASE=0.47;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.78;DISEASE=brown_rust;CONF_DISEASE=0.41;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.59;DISEASE=brown_rust;CONF_DISEASE=0.34;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.68;DISEASE=brown_rust;CONF_DISEASE=0.55;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.62;DISEASE=leaf_blight;CONF_DISEASE=0.48;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.68;DISEASE=yellow_rust;CONF_DISEASE=0.73;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.68;DISEASE=yellow_rust;CONF_DISEASE=0.89;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.79;DISEASE=yellow_rust;CONF_DISEASE=0.99;RECOMM=ATENTIE: Yellow Rust avansat! Tratament imediat necesar.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.95;DISEASE=yellow_rust;CONF_DISEASE=0.99;RECOMM=ATENTIE: Yellow Rust avansat! Tratament imediat necesar.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.84;DISEASE=yellow_rust;CONF_DISEASE=0.94;RECOMM=ATENTIE: Yellow Rust avansat! Tratament imediat necesar.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.79;DISEASE=yellow_rust;CONF_DISEASE=0.78;RECOMM=ATENTIE: Yellow Rust avansat! Tratament imediat necesar.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.89;DISEASE=yellow_rust;CONF_DISEASE=0.98;RECOMM=ATENTIE: Yellow Rust avansat! Tratament imediat necesar.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.96;DISEASE=yellow_rust;CONF_DISEASE=0.99;RECOMM=ATENTIE: Yellow Rust avansat! Tratament imediat necesar.;FPS=5.5
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.62;DISEASE=healthy;CONF_DISEASE=0.42;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.93;DISEASE=yellow_rust;CONF_DISEASE=0.96;RECOMM=ATENTIE: Yellow Rust avansat! Tratament imediat necesar.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.68;DISEASE=yellow_rust;CONF_DISEASE=0.94;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.74;DISEASE=yellow_rust;CONF_DISEASE=0.77;RECOMM=Yellow Rust prezent. Recoltati urgent.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.58;DISEASE=yellow_rust;CONF_DISEASE=0.91;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.55;DISEASE=yellow_rust;CONF_DISEASE=0.95;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.68;DISEASE=yellow_rust;CONF_DISEASE=0.89;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=1.00;DISEASE=healthy;CONF_DISEASE=0.90;RECOMM=Spic sanatos. Evaluati momentul optim pentru recoltare.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=1.00;DISEASE=healthy;CONF_DISEASE=0.71;RECOMM=Spic sanatos. Evaluati momentul optim pentru recoltare.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=1.00;DISEASE=healthy;CONF_DISEASE=0.82;RECOMM=Spic sanatos. Evaluati momentul optim pentru recoltare.;FPS=5.5
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.90;DISEASE=healthy;CONF_DISEASE=0.95;RECOMM=Planta sanatoasa in stadiu timpuriu. Mentineti irigarea si fertilizarea.;FPS=5.5
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.70;DISEASE=wheat_blast;CONF_DISEASE=0.51;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.89;DISEASE=healthy;CONF_DISEASE=0.70;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_timpuriu;CONF_STAGE=0.63;DISEASE=wheat_blast;CONF_DISEASE=0.79;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.93;DISEASE=healthy;CONF_DISEASE=0.79;RECOMM=Planta sanatoasa. Pregatiti fertilizarea pentru formarea spicului.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.92;DISEASE=healthy;CONF_DISEASE=0.85;RECOMM=Planta sanatoasa. Pregatiti fertilizarea pentru formarea spicului.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.91;DISEASE=healthy;CONF_DISEASE=0.80;RECOMM=Planta sanatoasa. Pregatiti fertilizarea pentru formarea spicului.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.91;DISEASE=healthy;CONF_DISEASE=0.79;RECOMM=Planta sanatoasa. Pregatiti fertilizarea pentru formarea spicului.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.90;DISEASE=black_point;CONF_DISEASE=0.86;RECOMM=Improbabil in acest stadiu. Verificati pozitionarea camerei.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.85;DISEASE=black_point;CONF_DISEASE=0.83;RECOMM=Improbabil in acest stadiu. Verificati pozitionarea camerei.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.88;DISEASE=black_point;CONF_DISEASE=0.91;RECOMM=Improbabil in acest stadiu. Verificati pozitionarea camerei.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.84;DISEASE=black_point;CONF_DISEASE=0.86;RECOMM=Improbabil in acest stadiu. Verificati pozitionarea camerei.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.38;DISEASE=leaf_blight;CONF_DISEASE=0.58;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.70;DISEASE=leaf_blight;CONF_DISEASE=0.51;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.46;DISEASE=leaf_blight;CONF_DISEASE=0.67;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.56;DISEASE=leaf_blight;CONF_DISEASE=0.62;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.46;DISEASE=leaf_blight;CONF_DISEASE=0.71;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=maturitate;CONF_STAGE=0.39;DISEASE=leaf_blight;CONF_DISEASE=0.67;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.49;DISEASE=yellow_rust;CONF_DISEASE=0.70;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.95;DISEASE=black_point;CONF_DISEASE=0.88;RECOMM=Improbabil in acest stadiu. Verificati pozitionarea camerei.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.90;DISEASE=brown_rust;CONF_DISEASE=0.66;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.91;DISEASE=brown_rust;CONF_DISEASE=0.57;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.78;DISEASE=brown_rust;CONF_DISEASE=0.46;RECOMM=Confidenta scazuta pentru boala. Apropiati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.64;DISEASE=brown_rust;CONF_DISEASE=0.68;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.71;DISEASE=brown_rust;CONF_DISEASE=0.87;RECOMM=ATENTIE: Brown Rust activ! Tratament fungicid urgent necesar.;FPS=5.5
+RESULT;STAGE=vegetativ_avansat;CONF_STAGE=0.69;DISEASE=brown_rust;CONF_DISEASE=0.57;RECOMM=Confidenta scazuta pentru stadiu. Repositionati camera.;FPS=5.5

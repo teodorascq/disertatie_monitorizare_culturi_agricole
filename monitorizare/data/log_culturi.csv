@@ -1,0 +1,158 @@
+timestamp,stage,conf_stage,disease,conf_disease,recommendation,fps
+2026-06-23 16:51:29,vegetativ_timpuriu,0.87,healthy,0.93,Planta sanatoasa in stadiu timpuriu. Mentineti irigarea si fertilizarea.,5.6
+2026-06-23 16:51:29,vegetativ_timpuriu,0.82,yellow_rust,0.78,ATENTIE: Yellow Rust detectat! Aplicati fungicid sistemic imediat.,5.4
+2026-06-23 16:51:29,vegetativ_timpuriu,0.80,brown_rust,0.74,ATENTIE: Brown Rust detectat! Aplicati fungicid preventiv imediat.,5.3
+2026-06-23 16:51:30,vegetativ_timpuriu,0.89,healthy,0.94,Planta sanatoasa in stadiu timpuriu. Mentineti irigarea si fertilizarea.,5.7
+2026-06-23 16:51:30,vegetativ_timpuriu,0.83,leaf_blight,0.72,ATENTIE: Leaf Blight detectat. Reduceti umiditatea si aplicati fungicid.,5.4
+2026-06-23 16:51:30,vegetativ_timpuriu,0.78,healthy,0.90,Planta sanatoasa in stadiu timpuriu. Mentineti irigarea si fertilizarea.,5.5
+2026-06-23 16:51:30,vegetativ_timpuriu,0.81,yellow_rust,0.76,ATENTIE: Yellow Rust detectat! Aplicati fungicid sistemic imediat.,5.3
+2026-06-23 16:51:30,vegetativ_timpuriu,0.77,black_point,0.70,Improbabil in acest stadiu. Verificati pozitionarea camerei.,5.3
+2026-06-23 16:51:31,vegetativ_timpuriu,0.79,wheat_blast,0.69,Improbabil in acest stadiu. Verificati pozitionarea camerei.,5.3
+2026-06-23 16:51:31,vegetativ_timpuriu,0.90,healthy,0.95,Planta sanatoasa in stadiu timpuriu. Mentineti irigarea si fertilizarea.,5.7
+2026-06-23 16:51:31,vegetativ_avansat,0.92,healthy,0.94,Planta sanatoasa. Pregatiti fertilizarea pentru formarea spicului.,5.6
+2026-06-23 16:51:31,vegetativ_avansat,0.88,yellow_rust,0.83,ATENTIE: Yellow Rust avansat! Tratament imediat necesar.,5.5
+2026-06-23 16:51:31,vegetativ_avansat,0.86,brown_rust,0.80,ATENTIE: Brown Rust activ! Tratament fungicid urgent necesar.,5.4
+2026-06-23 16:51:32,vegetativ_avansat,0.91,healthy,0.93,Planta sanatoasa. Pregatiti fertilizarea pentru formarea spicului.,5.7
+2026-06-23 16:51:32,vegetativ_avansat,0.89,leaf_blight,0.77,ATENTIE: Leaf Blight avansat. Aplicati tratament foliar.,5.4
+2026-06-23 16:51:32,vegetativ_avansat,0.84,healthy,0.91,Planta sanatoasa. Pregatiti fertilizarea pentru formarea spicului.,5.5
+2026-06-23 16:51:32,vegetativ_avansat,0.87,yellow_rust,0.82,ATENTIE: Yellow Rust avansat! Tratament imediat necesar.,5.4
+2026-06-23 16:51:32,vegetativ_avansat,0.83,brown_rust,0.79,ATENTIE: Brown Rust activ! Tratament fungicid urgent necesar.,5.3
+2026-06-23 16:51:33,vegetativ_avansat,0.80,black_point,0.71,Improbabil in acest stadiu. Verificati pozitionarea camerei.,5.3
+2026-06-23 16:51:33,vegetativ_avansat,0.82,wheat_blast,0.69,Improbabil in acest stadiu. Verificati pozitionarea camerei.,5.3
+2026-06-23 16:51:33,maturitate,0.95,healthy,0.94,Spic sanatos. Evaluati momentul optim pentru recoltare.,5.7
+2026-06-23 16:51:33,maturitate,0.91,yellow_rust,0.86,Yellow Rust prezent. Recoltati urgent.,5.5
+2026-06-23 16:51:33,maturitate,0.90,brown_rust,0.83,Brown Rust la maturitate. Recoltati cat mai curand.,5.4
+2026-06-23 16:51:34,maturitate,0.93,leaf_blight,0.79,Leaf Blight la maturitate. Recoltati si evaluati pierderile.,5.4
+2026-06-23 16:51:34,maturitate,0.88,black_point,0.82,ATENTIE: Black Point pe boabe! Verificati calitatea recoltei.,5.4
+2026-06-23 16:51:34,maturitate,0.94,wheat_blast,0.89,PERICOL: Wheat Blast! Consultati specialist inainte de recoltare.,5.3
+2026-06-23 16:51:34,maturitate,0.92,healthy,0.93,Spic sanatos. Evaluati momentul optim pentru recoltare.,5.6
+2026-06-23 16:51:34,maturitate,0.89,yellow_rust,0.84,Yellow Rust prezent. Recoltati urgent.,5.5
+2026-06-23 16:51:35,maturitate,0.90,brown_rust,0.82,Brown Rust la maturitate. Recoltati cat mai curand.,5.4
+2026-06-23 16:51:35,maturitate,0.91,leaf_blight,0.78,Leaf Blight la maturitate. Recoltati si evaluati pierderile.,5.4
+2026-06-23 16:51:35,vegetativ_avansat,0.93,healthy,0.95,Planta sanatoasa. Pregatiti fertilizarea pentru formarea spicului.,5.7
+2026-06-23 16:51:35,vegetativ_avansat,0.90,yellow_rust,0.84,ATENTIE: Yellow Rust avansat! Tratament imediat necesar.,5.5
+2026-06-23 16:51:35,vegetativ_avansat,0.88,brown_rust,0.81,ATENTIE: Brown Rust activ! Tratament fungicid urgent necesar.,5.4
+2026-06-23 16:51:36,vegetativ_avansat,0.91,leaf_blight,0.77,ATENTIE: Leaf Blight avansat. Aplicati tratament foliar.,5.4
+2026-06-23 16:51:36,vegetativ_avansat,0.84,healthy,0.92,Planta sanatoasa. Pregatiti fertilizarea pentru formarea spicului.,5.6
+2026-06-23 16:51:36,vegetativ_avansat,0.86,yellow_rust,0.82,ATENTIE: Yellow Rust avansat! Tratament imediat necesar.,5.4
+2026-06-23 16:51:36,vegetativ_avansat,0.83,brown_rust,0.79,ATENTIE: Brown Rust activ! Tratament fungicid urgent necesar.,5.3
+2026-06-23 16:51:36,vegetativ_avansat,0.80,black_point,0.71,Improbabil in acest stadiu. Verificati pozitionarea camerei.,5.3
+2026-06-23 16:51:37,vegetativ_avansat,0.82,wheat_blast,0.69,Improbabil in acest stadiu. Verificati pozitionarea camerei.,5.3
+2026-06-23 16:51:37,maturitate,0.96,healthy,0.94,Spic sanatos. Evaluati momentul optim pentru recoltare.,5.7
+2026-06-23 16:51:37,maturitate,0.92,yellow_rust,0.87,Yellow Rust prezent. Recoltati urgent.,5.5
+2026-06-23 16:51:37,maturitate,0.91,brown_rust,0.84,Brown Rust la maturitate. Recoltati cat mai curand.,5.4
+2026-06-23 16:51:37,maturitate,0.93,leaf_blight,0.79,Leaf Blight la maturitate. Recoltati si evaluati pierderile.,5.4
+2026-06-23 16:51:38,maturitate,0.89,black_point,0.82,ATENTIE: Black Point pe boabe! Verificati calitatea recoltei.,5.4
+2026-06-23 16:51:38,maturitate,0.95,wheat_blast,0.90,PERICOL: Wheat Blast! Consultati specialist inainte de recoltare.,5.3
+2026-06-23 16:51:38,vegetativ_timpuriu,0.88,healthy,0.92,Planta sanatoasa in stadiu timpuriu. Mentineti irigarea si fertilizarea.,5.6
+2026-06-23 16:51:38,vegetativ_timpuriu,0.83,yellow_rust,0.78,ATENTIE: Yellow Rust detectat! Aplicati fungicid sistemic imediat.,5.4
+2026-06-23 16:51:38,vegetativ_timpuriu,0.80,brown_rust,0.74,ATENTIE: Brown Rust detectat! Aplicati fungicid preventiv imediat.,5.3
+2026-06-23 16:51:39,vegetativ_timpuriu,0.89,leaf_blight,0.73,ATENTIE: Leaf Blight detectat. Reduceti umiditatea si aplicati fungicid.,5.4
+2026-06-23 16:51:39,vegetativ_timpuriu,0.78,healthy,0.90,Planta sanatoasa in stadiu timpuriu. Mentineti irigarea si fertilizarea.,5.5
+2026-06-23 16:51:39,vegetativ_avansat,0.92,healthy,0.94,Planta sanatoasa. Pregatiti fertilizarea pentru formarea spicului.,5.6
+2026-06-23 16:51:39,vegetativ_avansat,0.88,yellow_rust,0.83,ATENTIE: Yellow Rust avansat! Tratament imediat necesar.,5.5
+2026-06-23 16:51:39,vegetativ_avansat,0.86,brown_rust,0.80,ATENTIE: Brown Rust activ! Tratament fungicid urgent necesar.,5.4
+2026-06-23 16:51:40,vegetativ_avansat,0.91,leaf_blight,0.77,ATENTIE: Leaf Blight avansat. Aplicati tratament foliar.,5.4
+2026-06-23 16:51:40,vegetativ_avansat,0.84,healthy,0.92,Planta sanatoasa. Pregatiti fertilizarea pentru formarea spicului.,5.6
+2026-06-23 16:51:40,maturitate,0.95,healthy,0.94,Spic sanatos. Evaluati momentul optim pentru recoltare.,5.7
+2026-06-23 16:51:40,maturitate,0.92,yellow_rust,0.87,Yellow Rust prezent. Recoltati urgent.,5.5
+2026-06-23 16:51:40,maturitate,0.91,brown_rust,0.84,Brown Rust la maturitate. Recoltati cat mai curand.,5.4
+2026-06-23 16:51:41,maturitate,0.93,leaf_blight,0.79,Leaf Blight la maturitate. Recoltati si evaluati pierderile.,5.4
+2026-06-23 16:51:41,maturitate,0.89,black_point,0.82,ATENTIE: Black Point pe boabe! Verificati calitatea recoltei.,5.4
+2026-06-23 16:51:41,maturitate,0.95,wheat_blast,0.90,PERICOL: Wheat Blast! Consultati specialist inainte de recoltare.,5.3
+2026-06-23 23:34:11,vegetativ_timpuriu,0.87,healthy,0.93,Planta sanatoasa in stadiu timpuriu. Mentineti irigarea si fertilizarea.,5.6
+2026-06-23 23:34:12,vegetativ_timpuriu,0.82,yellow_rust,0.78,ATENTIE: Yellow Rust detectat! Aplicati fungicid sistemic imediat.,5.4
+2026-06-23 23:34:12,vegetativ_timpuriu,0.80,brown_rust,0.74,ATENTIE: Brown Rust detectat! Aplicati fungicid preventiv imediat.,5.3
+2026-06-23 23:34:12,vegetativ_timpuriu,0.89,healthy,0.94,Planta sanatoasa in stadiu timpuriu. Mentineti irigarea si fertilizarea.,5.7
+2026-06-23 23:34:12,vegetativ_timpuriu,0.83,leaf_blight,0.72,ATENTIE: Leaf Blight detectat. Reduceti umiditatea si aplicati fungicid.,5.4
+2026-06-23 23:34:12,vegetativ_timpuriu,0.78,healthy,0.90,Planta sanatoasa in stadiu timpuriu. Mentineti irigarea si fertilizarea.,5.5
+2026-06-23 23:34:13,vegetativ_timpuriu,0.81,yellow_rust,0.76,ATENTIE: Yellow Rust detectat! Aplicati fungicid sistemic imediat.,5.3
+2026-06-23 23:34:13,vegetativ_timpuriu,0.77,black_point,0.70,Improbabil in acest stadiu. Verificati pozitionarea camerei.,5.3
+2026-06-23 23:34:13,vegetativ_timpuriu,0.79,wheat_blast,0.69,Improbabil in acest stadiu. Verificati pozitionarea camerei.,5.3
+2026-06-23 23:34:13,vegetativ_timpuriu,0.90,healthy,0.95,Planta sanatoasa in stadiu timpuriu. Mentineti irigarea si fertilizarea.,5.7
+2026-06-23 23:34:13,vegetativ_avansat,0.92,healthy,0.94,Planta sanatoasa. Pregatiti fertilizarea pentru formarea spicului.,5.6
+2026-06-23 23:34:14,vegetativ_avansat,0.88,yellow_rust,0.83,ATENTIE: Yellow Rust avansat! Tratament imediat necesar.,5.5
+2026-06-23 23:34:14,vegetativ_avansat,0.86,brown_rust,0.80,ATENTIE: Brown Rust activ! Tratament fungicid urgent necesar.,5.4
+2026-06-23 23:34:14,vegetativ_avansat,0.91,healthy,0.93,Planta sanatoasa. Pregatiti fertilizarea pentru formarea spicului.,5.7
+2026-06-23 23:34:14,vegetativ_avansat,0.89,leaf_blight,0.77,ATENTIE: Leaf Blight avansat. Aplicati tratament foliar.,5.4
+2026-06-23 23:34:14,vegetativ_avansat,0.84,healthy,0.91,Planta sanatoasa. Pregatiti fertilizarea pentru formarea spicului.,5.5
+2026-06-23 23:34:15,vegetativ_avansat,0.87,yellow_rust,0.82,ATENTIE: Yellow Rust avansat! Tratament imediat necesar.,5.4
+2026-06-23 23:34:15,vegetativ_avansat,0.83,brown_rust,0.79,ATENTIE: Brown Rust activ! Tratament fungicid urgent necesar.,5.3
+2026-06-23 23:34:15,vegetativ_avansat,0.80,black_point,0.71,Improbabil in acest stadiu. Verificati pozitionarea camerei.,5.3
+2026-06-23 23:34:15,vegetativ_avansat,0.82,wheat_blast,0.69,Improbabil in acest stadiu. Verificati pozitionarea camerei.,5.3
+2026-06-23 23:34:15,maturitate,0.95,healthy,0.94,Spic sanatos. Evaluati momentul optim pentru recoltare.,5.7
+2026-06-23 23:34:16,maturitate,0.91,yellow_rust,0.86,Yellow Rust prezent. Recoltati urgent.,5.5
+2026-06-23 23:34:16,maturitate,0.90,brown_rust,0.83,Brown Rust la maturitate. Recoltati cat mai curand.,5.4
+2026-06-23 23:34:16,maturitate,0.93,leaf_blight,0.79,Leaf Blight la maturitate. Recoltati si evaluati pierderile.,5.4
+2026-06-23 23:34:16,maturitate,0.88,black_point,0.82,ATENTIE: Black Point pe boabe! Verificati calitatea recoltei.,5.4
+2026-06-23 23:34:16,maturitate,0.94,wheat_blast,0.89,PERICOL: Wheat Blast! Consultati specialist inainte de recoltare.,5.3
+2026-06-23 23:34:17,maturitate,0.92,healthy,0.93,Spic sanatos. Evaluati momentul optim pentru recoltare.,5.6
+2026-06-23 23:34:17,maturitate,0.89,yellow_rust,0.84,Yellow Rust prezent. Recoltati urgent.,5.5
+2026-06-23 23:34:17,maturitate,0.90,brown_rust,0.82,Brown Rust la maturitate. Recoltati cat mai curand.,5.4
+2026-06-23 23:34:17,maturitate,0.91,leaf_blight,0.78,Leaf Blight la maturitate. Recoltati si evaluati pierderile.,5.4
+2026-06-23 23:34:17,vegetativ_avansat,0.93,healthy,0.95,Planta sanatoasa. Pregatiti fertilizarea pentru formarea spicului.,5.7
+2026-06-23 23:34:18,vegetativ_avansat,0.90,yellow_rust,0.84,ATENTIE: Yellow Rust avansat! Tratament imediat necesar.,5.5
+2026-06-23 23:34:18,vegetativ_avansat,0.88,brown_rust,0.81,ATENTIE: Brown Rust activ! Tratament fungicid urgent necesar.,5.4
+2026-06-23 23:34:18,vegetativ_avansat,0.91,leaf_blight,0.77,ATENTIE: Leaf Blight avansat. Aplicati tratament foliar.,5.4
+2026-06-23 23:34:18,vegetativ_avansat,0.84,healthy,0.92,Planta sanatoasa. Pregatiti fertilizarea pentru formarea spicului.,5.6
+2026-06-23 23:34:18,vegetativ_avansat,0.86,yellow_rust,0.82,ATENTIE: Yellow Rust avansat! Tratament imediat necesar.,5.4
+2026-06-23 23:34:19,vegetativ_avansat,0.83,brown_rust,0.79,ATENTIE: Brown Rust activ! Tratament fungicid urgent necesar.,5.3
+2026-06-23 23:34:19,vegetativ_avansat,0.80,black_point,0.71,Improbabil in acest stadiu. Verificati pozitionarea camerei.,5.3
+2026-06-23 23:34:19,vegetativ_avansat,0.82,wheat_blast,0.69,Improbabil in acest stadiu. Verificati pozitionarea camerei.,5.3
+2026-06-23 23:34:19,maturitate,0.96,healthy,0.94,Spic sanatos. Evaluati momentul optim pentru recoltare.,5.7
+2026-06-23 23:34:19,maturitate,0.92,yellow_rust,0.87,Yellow Rust prezent. Recoltati urgent.,5.5
+2026-06-23 23:34:20,maturitate,0.91,brown_rust,0.84,Brown Rust la maturitate. Recoltati cat mai curand.,5.4
+2026-06-23 23:34:20,maturitate,0.93,leaf_blight,0.79,Leaf Blight la maturitate. Recoltati si evaluati pierderile.,5.4
+2026-06-23 23:34:20,maturitate,0.89,black_point,0.82,ATENTIE: Black Point pe boabe! Verificati calitatea recoltei.,5.4
+2026-06-23 23:34:20,maturitate,0.95,wheat_blast,0.90,PERICOL: Wheat Blast! Consultati specialist inainte de recoltare.,5.3
+2026-06-23 23:34:20,vegetativ_timpuriu,0.88,healthy,0.92,Planta sanatoasa in stadiu timpuriu. Mentineti irigarea si fertilizarea.,5.6
+2026-06-23 23:34:21,vegetativ_timpuriu,0.83,yellow_rust,0.78,ATENTIE: Yellow Rust detectat! Aplicati fungicid sistemic imediat.,5.4
+2026-06-23 23:34:21,vegetativ_timpuriu,0.80,brown_rust,0.74,ATENTIE: Brown Rust detectat! Aplicati fungicid preventiv imediat.,5.3
+2026-06-23 23:34:21,vegetativ_timpuriu,0.89,leaf_blight,0.73,ATENTIE: Leaf Blight detectat. Reduceti umiditatea si aplicati fungicid.,5.4
+2026-06-23 23:34:21,vegetativ_timpuriu,0.78,healthy,0.90,Planta sanatoasa in stadiu timpuriu. Mentineti irigarea si fertilizarea.,5.5
+2026-06-23 23:34:21,vegetativ_avansat,0.92,healthy,0.94,Planta sanatoasa. Pregatiti fertilizarea pentru formarea spicului.,5.6
+2026-06-23 23:34:22,vegetativ_avansat,0.88,yellow_rust,0.83,ATENTIE: Yellow Rust avansat! Tratament imediat necesar.,5.5
+2026-06-23 23:34:22,vegetativ_avansat,0.86,brown_rust,0.80,ATENTIE: Brown Rust activ! Tratament fungicid urgent necesar.,5.4
+2026-06-23 23:34:22,vegetativ_avansat,0.91,leaf_blight,0.77,ATENTIE: Leaf Blight avansat. Aplicati tratament foliar.,5.4
+2026-06-23 23:34:22,vegetativ_avansat,0.84,healthy,0.92,Planta sanatoasa. Pregatiti fertilizarea pentru formarea spicului.,5.6
+2026-06-23 23:34:22,maturitate,0.95,healthy,0.94,Spic sanatos. Evaluati momentul optim pentru recoltare.,5.7
+2026-06-23 23:34:23,maturitate,0.92,yellow_rust,0.87,Yellow Rust prezent. Recoltati urgent.,5.5
+2026-06-23 23:34:23,maturitate,0.91,brown_rust,0.84,Brown Rust la maturitate. Recoltati cat mai curand.,5.4
+2026-06-23 23:34:23,maturitate,0.93,leaf_blight,0.79,Leaf Blight la maturitate. Recoltati si evaluati pierderile.,5.4
+2026-06-23 23:34:23,maturitate,0.89,black_point,0.82,ATENTIE: Black Point pe boabe! Verificati calitatea recoltei.,5.4
+2026-06-23 23:34:23,maturitate,0.95,wheat_blast,0.90,PERICOL: Wheat Blast! Consultati specialist inainte de recoltare.,5.3
+2026-06-23 23:34:24,maturitate,0.95,healthy,0.94,Spic sanatos. Evaluati momentul optim pentru recoltare.,5.7
+2026-06-23 23:34:24,maturitate,0.91,yellow_rust,0.86,Yellow Rust prezent. Recoltati urgent.,5.5
+2026-06-23 23:34:24,maturitate,0.90,brown_rust,0.83,Brown Rust la maturitate. Recoltati cat mai curand.,5.4
+2026-06-23 23:34:24,maturitate,0.93,leaf_blight,0.79,Leaf Blight la maturitate. Recoltati si evaluati pierderile.,5.4
+2026-06-23 23:34:24,maturitate,0.88,black_point,0.82,ATENTIE: Black Point pe boabe! Verificati calitatea recoltei.,5.4
+2026-06-23 23:34:25,maturitate,0.94,wheat_blast,0.89,PERICOL: Wheat Blast! Consultati specialist inainte de recoltare.,5.3
+2026-06-23 23:34:25,maturitate,0.92,healthy,0.93,Spic sanatos. Evaluati momentul optim pentru recoltare.,5.6
+2026-06-23 23:34:25,maturitate,0.89,yellow_rust,0.84,Yellow Rust prezent. Recoltati urgent.,5.5
+2026-06-23 23:34:25,maturitate,0.90,brown_rust,0.82,Brown Rust la maturitate. Recoltati cat mai curand.,5.4
+2026-06-23 23:34:25,maturitate,0.91,leaf_blight,0.78,Leaf Blight la maturitate. Recoltati si evaluati pierderile.,5.4
+2026-06-23 23:34:26,vegetativ_avansat,0.93,healthy,0.95,Planta sanatoasa. Pregatiti fertilizarea pentru formarea spicului.,5.7
+2026-06-23 23:34:26,vegetativ_avansat,0.90,yellow_rust,0.84,ATENTIE: Yellow Rust avansat! Tratament imediat necesar.,5.5
+2026-06-23 23:34:26,vegetativ_avansat,0.88,brown_rust,0.81,ATENTIE: Brown Rust activ! Tratament fungicid urgent necesar.,5.4
+2026-06-23 23:34:26,vegetativ_avansat,0.91,leaf_blight,0.77,ATENTIE: Leaf Blight avansat. Aplicati tratament foliar.,5.4
+2026-06-23 23:34:26,vegetativ_avansat,0.84,healthy,0.92,Planta sanatoasa. Pregatiti fertilizarea pentru formarea spicului.,5.6
+2026-06-23 23:34:27,vegetativ_avansat,0.86,yellow_rust,0.82,ATENTIE: Yellow Rust avansat! Tratament imediat necesar.,5.4
+2026-06-23 23:34:27,vegetativ_avansat,0.83,brown_rust,0.79,ATENTIE: Brown Rust activ! Tratament fungicid urgent necesar.,5.3
+2026-06-23 23:34:27,vegetativ_avansat,0.80,black_point,0.71,Improbabil in acest stadiu. Verificati pozitionarea camerei.,5.3
+2026-06-23 23:34:27,vegetativ_avansat,0.82,wheat_blast,0.69,Improbabil in acest stadiu. Verificati pozitionarea camerei.,5.3
+2026-06-23 23:34:27,maturitate,0.96,healthy,0.94,Spic sanatos. Evaluati momentul optim pentru recoltare.,5.7
+2026-06-23 23:34:28,maturitate,0.92,yellow_rust,0.87,Yellow Rust prezent. Recoltati urgent.,5.5
+2026-06-23 23:34:28,maturitate,0.91,brown_rust,0.84,Brown Rust la maturitate. Recoltati cat mai curand.,5.4
+2026-06-23 23:34:28,maturitate,0.93,leaf_blight,0.79,Leaf Blight la maturitate. Recoltati si evaluati pierderile.,5.4
+2026-06-23 23:34:28,maturitate,0.89,black_point,0.82,ATENTIE: Black Point pe boabe! Verificati calitatea recoltei.,5.4
+2026-06-23 23:34:28,maturitate,0.95,wheat_blast,0.90,PERICOL: Wheat Blast! Consultati specialist inainte de recoltare.,5.3
+2026-06-23 23:34:29,vegetativ_timpuriu,0.88,healthy,0.93,Planta sanatoasa in stadiu timpuriu. Mentineti irigarea si fertilizarea.,5.6
+2026-06-23 23:34:29,vegetativ_timpuriu,0.83,yellow_rust,0.78,ATENTIE: Yellow Rust detectat! Aplicati fungicid sistemic imediat.,5.4
+2026-06-23 23:34:29,vegetativ_timpuriu,0.80,brown_rust,0.74,ATENTIE: Brown Rust detectat! Aplicati fungicid preventiv imediat.,5.3
+2026-06-23 23:34:29,vegetativ_timpuriu,0.89,leaf_blight,0.73,ATENTIE: Leaf Blight detectat. Reduceti umiditatea si aplicati fungicid.,5.4
+2026-06-23 23:34:29,vegetativ_timpuriu,0.78,healthy,0.90,Planta sanatoasa in stadiu timpuriu. Mentineti irigarea si fertilizarea.,5.5
+2026-06-23 23:34:30,vegetativ_avansat,0.92,healthy,0.94,Planta sanatoasa. Pregatiti fertilizarea pentru formarea spicului.,5.6
+2026-06-23 23:34:30,vegetativ_avansat,0.88,yellow_rust,0.83,ATENTIE: Yellow Rust avansat! Tratament imediat necesar.,5.5
+2026-06-23 23:34:30,vegetativ_avansat,0.86,brown_rust,0.80,ATENTIE: Brown Rust activ! Tratament fungicid urgent necesar.,5.4
+2026-06-23 23:34:30,vegetativ_avansat,0.91,leaf_blight,0.77,ATENTIE: Leaf Blight avansat. Aplicati tratament foliar.,5.4
+2026-06-23 23:34:30,vegetativ_avansat,0.84,healthy,0.92,Planta sanatoasa. Pregatiti fertilizarea pentru formarea spicului.,5.6
