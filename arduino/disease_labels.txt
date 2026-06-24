@@ -1,0 +1,6 @@
+black_point
+brown_rust
+healthy
+leaf_blight
+wheat_blast
+yellow_rust
