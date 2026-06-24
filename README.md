@@ -6,9 +6,13 @@ Setul de date a fost obtinut din urmatoarele surse:
   - https://www.kaggle.com/datasets/sarfarazkhanmphil/wheat-weed-field-image-dataset?utm_source=chatgpt.com
   - https://www.kaggle.com/datasets/matthewmasters/global-wheat-head-dataset-manually-refined
   - https://www.kaggle.com/datasets/khanaamer/wheat-leaf-disease-dataset?resource=download
+
 Foldeurul intitulat arduino contine fisierele necesare pentru incarcarea firmware‑ului pe placa Nicla Vision.
+
 In foldrul monitorizare se afla scripturile python prin care se realizeaza comunicarea seriala cu dashbord-ul, orchestratorul gestionează automat toate modulele necesare:
-    python orchestrator.py - pentru comunicare seriala
-    python orchestrator.py --no-sim - pentru simularea cu rezultatele din simulated_results.txt
+  - python orchestrator.py - pentru comunicare seriala
+  - python orchestrator.py --no-sim - pentru simularea cu rezultatele din simulated_results.txt
+
 Pentru testarea comunicatiei seriale se apeleaza reciever.py din terminal
+
 In folderul demo se pot gasi atat un demonstrativ al funcționării sistemului cat si câteva imagini utilizabile pentru testare
